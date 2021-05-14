@@ -1,0 +1,910 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18362.720; Version 1903; 64bit' Language: 'en' Physical Memory: 16168 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Virtual Reality/Documents/GitHub/Tower-Defense-Game-3D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54756
+Successfully changed project path to: C:/Users/Virtual Reality/Documents/GitHub/Tower-Defense-Game-3D
+C:/Users/Virtual Reality/Documents/GitHub/Tower-Defense-Game-3D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Virtual Reality/Documents/GitHub/Tower-Defense-Game-3D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA Quadro M5000 (ID=0x13f0)
+    Vendor:   
+    VRAM:     8144 MB
+    Driver:   25.21.14.1917
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56956
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001950 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 25.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.741 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000786 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.4 MB.
+System memory in use after: 56.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1541.
+Total: 2.100000 ms (FindLiveObjects: 0.179000 ms CreateObjectMapping: 0.036200 ms MarkObjects: 1.787300 ms  DeleteObjects: 0.096600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a6e520b92ccfc61bcfa21a7bcab8468') in 0.007814 seconds
+  Import took 0.009691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.920768 seconds.
+  path: Assets/Scripts - jaylan
+  artifactKey: Guid(56f4dad2f62b3974aa0951726ff545a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan using Guid(56f4dad2f62b3974aa0951726ff545a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '454352781f297d0ef711d01bcda11464') in 0.008876 seconds
+  Import took 0.010837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.079510 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c619f10d0204b2de5c24abe57d587971') in 0.035590 seconds
+  Import took 0.037438 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000639 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.762 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1094 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.4 MB.
+System memory in use after: 56.5 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1544.
+Total: 1.439700 ms (FindLiveObjects: 0.180600 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.174000 ms  DeleteObjects: 0.046500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000708 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.777 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.5 MB.
+System memory in use after: 56.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1547.
+Total: 1.425600 ms (FindLiveObjects: 0.147000 ms CreateObjectMapping: 0.029100 ms MarkObjects: 1.215500 ms  DeleteObjects: 0.033200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 539.682497 seconds.
+  path: Assets/Scripts - jaylan/BuildManager.cs
+  artifactKey: Guid(4be7dd8942139e4468367b910eb10b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/BuildManager.cs using Guid(4be7dd8942139e4468367b910eb10b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec9488086d17b8d496e650de51d9aaf') in 0.012865 seconds
+  Import took 0.014703 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000853 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.353 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1456 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.7 MB.
+System memory in use after: 68.9 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 3.423600 ms (FindLiveObjects: 0.183600 ms CreateObjectMapping: 0.066100 ms MarkObjects: 1.879800 ms  DeleteObjects: 1.293100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1494.837145 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.001425 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.003837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004343 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000316 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014343 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000272 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023207 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000240 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015691 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000317 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023477 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000236 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013363 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000237 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013004 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000254 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012092 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000237 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012292 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012086 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000264 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011772 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000249 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011319 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000325 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011483 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011775 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000240 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011166 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000246 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011891 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000281 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011808 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000246 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011650 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000253 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011915 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011394 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000239 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011656 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000242 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011250 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010932 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000237 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011597 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000242 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011404 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000240 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011680 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012044 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000249 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011602 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000243 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010923 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000288 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014414 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000243 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020908 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000259 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011301 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000243 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011067 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010608 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011890 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000238 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011096 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000258 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010389 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000248 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011277 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011838 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011452 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000247 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011325 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000242 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012755 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000353 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011827 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000246 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011218 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000251 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011416 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000257 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011390 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000242 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011248 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010605 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011737 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000240 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011585 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011378 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000256 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011246 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000241 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011390 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000240 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011827 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000242 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011361 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000238 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011807 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023028 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000237 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011094 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011379 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000242 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011282 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000242 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011497 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000238 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011301 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000261 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011033 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000242 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012319 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012019 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011614 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000328 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011045 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010695 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000236 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012225 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000233 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010543 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000238 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.001997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010885 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000244 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010256 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000257 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013878 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000268 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010738 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000241 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010454 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000247 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011181 seconds.
+  path: Assets/Scripts - jaylan/Node.cs
+  artifactKey: Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts - jaylan/Node.cs using Guid(e74ef3c0cab6143498373f1bf9dc8ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000240 seconds
+  ERROR: Build asset version error: assets/scripts - jaylan/node.cs in SourceAssetDB has modification time of '2021-05-14T06:00:27.2849167Z' while content on disk has modification time of '2021-05-14T06:07:24.679703Z'
+  Import took 0.002279 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000984 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@4.4.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1455 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.7 MB.
+System memory in use after: 69.0 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 1890.
+Total: 3.258000 ms (FindLiveObjects: 0.176400 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.710000 ms  DeleteObjects: 1.335900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
