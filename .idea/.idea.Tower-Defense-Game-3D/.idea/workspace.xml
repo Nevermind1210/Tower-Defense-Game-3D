@@ -15,8 +15,9 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/MainMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/PauseMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/MainMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/Bullet.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1spdCxR3cY4TGknNEXrwWfy8oa0" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621573344327</updated>
-      <workItem from="1621573351193" duration="1181000" />
+      <workItem from="1621573351193" duration="1961000" />
     </task>
     <servers />
   </component>
