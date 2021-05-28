@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Enemy
+  - Turret Node
+  - Turret
+  - Trap
+  - Enemy Node
   layers:
   - Default
   - TransparentFX
