@@ -25,7 +25,7 @@ public class BuildManager : MonoBehaviour
 
     //private void Start()
    // {
-   //     turretToBuild = turret1;
+   //     turretToBuild = turret1;x
    // }
     public GameObject GetTurretToBuild()
     {

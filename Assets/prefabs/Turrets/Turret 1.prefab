@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d872c673869026a42ad4d9f8416fd8e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  range: 15
+  range: 7
   damage: 5
   firerate: 1
   fireCountdown: 0
@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 6319189981509004233}
   m_Layer: 0
   m_Name: Turret 1
-  m_TagString: Untagged
+  m_TagString: Turret
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
