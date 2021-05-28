@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -80,6 +81,12 @@ public class Turret : MonoBehaviour
         //Shows range of tower (will be changed in final just for testing)
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, range);   
+    }
+
+    private void OnMouseUpAsButton()
+    {
+        // This fires when the object is clicked
+        
     }
 }
             

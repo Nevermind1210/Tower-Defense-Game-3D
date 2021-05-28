@@ -11,13 +11,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts - Xavier Arias/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts - Xavier Arias/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts - Xavier Arias/Health.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/PauseMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/MainMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/Bullet.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/Node.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/Turret.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/Health.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1spdCxR3cY4TGknNEXrwWfy8oa0" />
@@ -62,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621573344327</updated>
-      <workItem from="1621573351193" duration="1961000" />
+      <workItem from="1621573351193" duration="2560000" />
+      <workItem from="1622173428690" duration="6312000" />
     </task>
     <servers />
   </component>

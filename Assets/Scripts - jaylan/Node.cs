@@ -21,7 +21,7 @@ public class Node : MonoBehaviour
     {
         if (turret != null)
         {
-            Debug.Log("Cant't build there!"); //Display on screen'
+            Debug.Log("Can't build there!"); //Display on screen'
             return;
         }
         GameObject turretToBuild = BuildManager.instance.GetTurretToBuild();
