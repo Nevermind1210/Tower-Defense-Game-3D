@@ -27,6 +27,7 @@
       <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/Health.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/HexGridGenerator.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/CameraController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/BuildManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1spdCxR3cY4TGknNEXrwWfy8oa0" />
@@ -75,7 +76,7 @@
       <updated>1621573344327</updated>
       <workItem from="1621573351193" duration="2560000" />
       <workItem from="1622173428690" duration="6312000" />
-      <workItem from="1622778176590" duration="6138000" />
+      <workItem from="1622778176590" duration="7848000" />
     </task>
     <servers />
   </component>
