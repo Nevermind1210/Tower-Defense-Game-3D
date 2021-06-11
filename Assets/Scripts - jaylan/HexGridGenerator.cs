@@ -17,7 +17,7 @@ public class HexGridGenerator : MonoBehaviour
 
     float hexWidth = 1.732f;
     float hexHeight = 2.0f;
-    public float gap = 0.0f;
+    public float gap = 0.8f;
 
     Vector3 startPos;
 
