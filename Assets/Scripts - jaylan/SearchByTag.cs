@@ -32,5 +32,7 @@ public class SelectByTag : EditorWindow
             Selection.objects = objects;
             this.Close();
         }
+        
+        
     }
 }

@@ -12,14 +12,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts - Xavier Arias/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts - Xavier Arias/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts - Xavier Arias/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts - Xavier Arias/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts - Xavier Arias/CameraController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/PauseMenu.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/MainMenu.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/Bullet.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/Node.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/Enemy.cs" />
@@ -28,6 +25,13 @@
       <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/HexGridGenerator.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/CameraController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/BuildManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - jaylan/SearchByTag.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/OptionsMneu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/HoverMouseUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/MainMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/PauseMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/OptionsMenu.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts - Xavier Arias/UIElemntsScripts/OptionsMenu.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1spdCxR3cY4TGknNEXrwWfy8oa0" />
@@ -45,20 +49,20 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
-    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="2884">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="2884" />
+      <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="2884">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="2884" />
+      <option name="pid" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -77,6 +81,7 @@
       <workItem from="1621573351193" duration="2560000" />
       <workItem from="1622173428690" duration="6312000" />
       <workItem from="1622778176590" duration="7848000" />
+      <workItem from="1623386627254" duration="4175000" />
     </task>
     <servers />
   </component>
