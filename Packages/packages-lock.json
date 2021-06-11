@@ -46,16 +46,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< HEAD
-=======
-    "com.unity.quicksearch": {
-      "version": "2.0.2",
-      "depth": 0,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
->>>>>>> bcbf4fa19b9bb5d2f428635aaa97080c9a0f37e3
     "com.unity.settings-manager": {
       "version": "1.0.3",
       "depth": 1,
