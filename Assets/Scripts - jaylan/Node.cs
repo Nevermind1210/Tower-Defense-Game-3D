@@ -19,6 +19,7 @@ public class Node : MonoBehaviour
 
     private void OnMouseDown()
     {
+
         //Checks if the tile the player clicks on is a placable area
         if (gameObject.tag =="Turret Node")
         {
@@ -30,10 +31,16 @@ public class Node : MonoBehaviour
             }
             //Grabs the selected tower
             GameObject turretToBuild = BuildManager.instance.GetTurretToBuild();
-            if(turretToBuild.tag == "Turret")
+            if (turretToBuild== null)
             {
-                turret = (GameObject)Instantiate(turretToBuild, transform.position + positionOffset, transform.rotation);
+                return;
             }
+            if (turretToBuild.tag == "Turret")
+            {
+                gameObject.transform.localScale += new Vector3(0, 20f, 0);
+                transform.Translate(0, 0.2f, 0);
+                turret = (GameObject)Instantiate(turretToBuild, transform.position + positionOffset, transform.rotation);
+            }  
         }
 
         //Checks if the tile the player clicks is an enemy tile to place a trap
@@ -46,6 +53,10 @@ public class Node : MonoBehaviour
                 return;
             }
             GameObject turretToBuild = BuildManager.instance.GetTurretToBuild();
+            if (turretToBuild == null)
+            {
+                return;
+            }
             if (turretToBuild.tag == "Trap")
             {
                 turret = (GameObject)Instantiate(turretToBuild, transform.position + positionOffset, transform.rotation);

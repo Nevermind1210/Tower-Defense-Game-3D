@@ -11,18 +11,23 @@ public class SelectByTag : EditorWindow
     [MenuItem("Search/Select By Tag %g")]
     public static void SelectObjectsWithTag()
     {
+        
         EditorWindow window = GetWindow<SelectByTag>();
         window.position = new Rect(0, 0, 350, 70);
         window.Show();
+
     }
+    private bool focused;
+
     void OnGUI()
     {
-        SelectedTag = EditorGUI.TextArea(new Rect(3, 3, position.width - 6, position.height - 35), SelectedTag);
 
+        SelectedTag = EditorGUI.TextArea(new Rect(3, 3, position.width - 6, position.height - 35), SelectedTag);
         if (GUI.Button(new Rect(0, position.height - 20, position.width, 15), "Confirm"))
         {
             GameObject[] objects = GameObject.FindGameObjectsWithTag(SelectedTag);
             Selection.objects = objects;
+            SelectedTag = "";
             this.Close();
         }
 
@@ -30,6 +35,7 @@ public class SelectByTag : EditorWindow
         {
             GameObject[] objects = GameObject.FindGameObjectsWithTag(SelectedTag);
             Selection.objects = objects;
+            SelectedTag = "";
             this.Close();
         }
         
