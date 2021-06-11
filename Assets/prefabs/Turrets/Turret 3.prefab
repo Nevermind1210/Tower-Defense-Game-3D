@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 2073005652123808842}
   m_Layer: 0
   m_Name: Turret 3
-  m_TagString: Turret
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -267,7 +267,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d872c673869026a42ad4d9f8416fd8e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  range: 10
+  range: 15
   damage: 5
   firerate: 1
   fireCountdown: 0

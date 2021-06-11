@@ -24,6 +24,7 @@ public class Node : MonoBehaviour
 
     private void OnMouseDown()
     {
+<<<<<<< HEAD
         GameObject turretToBuild = BuildManager.instance.GetTurretToBuild();
         if (turretToBuild == null)
         {
@@ -76,6 +77,18 @@ public class Node : MonoBehaviour
             hoverColor = new Color(0.8f, 0.82f, 0.24f, 0.7f);
             Debug.Log("Enemy Tile");
         }
+=======
+        if (turret != null)
+        {
+            Debug.Log("Cant't build there!"); //Display on screen'
+            return;
+        }
+        GameObject turretToBuild = BuildManager.instance.GetTurretToBuild();
+        turret = (GameObject)Instantiate(turretToBuild, transform.position + positionOffset, transform.rotation);
+    }
+    private void OnMouseEnter()
+    {
+>>>>>>> parent of 36c09df (Real Hex Grid and turrets)
         rend.material.color = hoverColor;
     }
     private void OnMouseExit()  

@@ -8,8 +8,6 @@ public class Shop : MonoBehaviour
     {
         buildManager = BuildManager.instance;
     }
-
-    //For each button on the shop, they will spawn corresponding turret
     public void PurchaceTurret1()
     {
         buildManager.SetTurretToBuild(buildManager.turret1);

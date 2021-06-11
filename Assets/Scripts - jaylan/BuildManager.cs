@@ -27,7 +27,7 @@ public class BuildManager : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
 
     //private void Start()
    // {
-   //     turretToBuild = turret1;x
+   //     turretToBuild = turret1;
    // }
     public GameObject GetTurretToBuild()
     {
