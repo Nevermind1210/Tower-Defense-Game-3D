@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class BuildManager : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
+public class BuildManager : MonoBehaviour
 {
     public static BuildManager instance;
 
@@ -36,15 +36,5 @@ public class BuildManager : MonoBehaviour, IPointerEnterHandler, IPointerExitHan
     public void SetTurretToBuild(GameObject _turret)
     {
         turretToBuild = _turret;
-    }
-
-    public void OnPointerEnter(PointerEventData eventData)
-    {
-        throw new System.NotImplementedException(); // todo UI elements
-    }
-
-    public void OnPointerExit(PointerEventData eventData)
-    {
-        throw new System.NotImplementedException(); // todo UI element de-transition.
     }
 }

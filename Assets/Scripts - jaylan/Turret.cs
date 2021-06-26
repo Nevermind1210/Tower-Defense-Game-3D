@@ -17,10 +17,12 @@ public class Turret : MonoBehaviour
     public float turnSpeed = 10f;
     public Transform firePoint;
     public GameObject bulletPrefab;
+    public AudioSource bulletSound;
     // Start is called before the first frame update
     void Start()
     {
         InvokeRepeating("UpdateTarget", 0f, 0.5f);
+        bulletSound = GetComponent<AudioSource>();
     }
     private void UpdateTarget()
     {
@@ -73,6 +75,7 @@ public class Turret : MonoBehaviour
         Bullet bullet = bulletShoot.GetComponent<Bullet>();
         if (bullet != null)
         {
+            bulletSound.Play();
             bullet.Seek(target);
         }   
     }
